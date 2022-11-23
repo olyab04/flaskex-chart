@@ -25,3 +25,4 @@ jobs:
           
       - name: Helm Install
         run: helm upgrade --install myapp ./
+        
